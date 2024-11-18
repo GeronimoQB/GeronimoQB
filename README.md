@@ -9,4 +9,6 @@
 - 💬 Ask me about Modeling in Forest and Applied Artificial Intelligence
 - 📫 How to reach me: gero2723@hotmail.com
 - 🌎: https://www.geronimoqb.com/
+-🔗: https://www.facebook.com/GeronimoQuinonezBarrazaDr
+🔗: https://www.youtube.com/@geronimoquinonez-barraza
 
