@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-*Geronimo Quiñonez-Barraza** is a ✨ Scientist Reasercher in Forestry🌲.
+**Geronimo Quiñonez-Barraza** is a ✨ Scientist Reasercher in Forestry🌲.
 
 - 🔭 I’m currently working on Instituto Nacional de Investigaciones Forestales Agrícolas y POecuarias
 - 🌱 I’m currently learning Artificial Intelligence
