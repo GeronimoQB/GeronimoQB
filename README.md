@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**GeronimoQB/GeronimoQB** is a ✨ Scientist Reasercher ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Geronimo Quiñonez-Barraza** is a ✨ Scientist Reasercher ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
